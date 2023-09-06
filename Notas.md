@@ -26,5 +26,6 @@ https://woocommerce.github.io/woocommerce-rest-api-docs/?python#list-all-product
 ```pip install pytest-html```
 https://pytest-html.readthedocs.io/en/latest/user_guide.html
 
-pytest --html=report.html --self-contained-html
+```pytest --html=report.html --self-contained-html```
+
 
